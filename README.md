@@ -20,6 +20,7 @@ We encourage everyone who is participating the hackathon to look through these r
 ## Blockchain Frameworks
 * [Blockchain Frameworks,
 Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
+* [Blockchain Services & Chains](https://www.codementor.io/learn/blockchain/services-apps-chains).
 
 ## Videos
 * [Bitcoin != Blockchain](https://youtu.be/93E_GzvpMA0).
