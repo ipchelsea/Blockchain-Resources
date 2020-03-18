@@ -24,11 +24,11 @@ Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 
 ## Video Tutorials
 * [Bitcoin != Blockchain](https://youtu.be/93E_GzvpMA0).
-* [Python Tutorial for Beginners - Learn Python by Building a Blockchain & Cryptocurrency(https://www.youtube.com/watch?v=KARxDX5DTgY).]
+* [Python Tutorial for Beginners - Learn Python by Building a Blockchain & Cryptocurrency](https://www.youtube.com/watch?v=KARxDX5DTgY).
 * [How to Build Ethereum Dapp (Decentralized Application Development Tutorial)](https://www.youtube.com/watch?v=3681ZYbDSSk).
 * [Ethereum Dapp with React JS, Webpack, Web3 & Truffle](https://www.youtube.com/watch?v=qlJ3cs7o2DE).
 * [Intro to Solidity Programming Language - Ethereum Blockchain Developer Tutorial for Beginners](https://www.youtube.com/watch?v=MnSmc7Hto2k).
-* [Bitcoin != Blockchain](https://youtu.be/93E_GzvpMA0).
+* [Build Your First Blockchain App - Ethereum Todo List 2019](https://www.youtube.com/watch?v=rzvk2kdjr2I).
 * [Creating a blockchain with Javascript (Blockchain, part 1)](https://www.youtube.com/watch?v=zVqczFZr124).
 * [Bitcoin: The security of transaction block chains](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-security-of-transaction-block-chains).
 
