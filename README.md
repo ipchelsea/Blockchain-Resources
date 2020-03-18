@@ -4,8 +4,7 @@
 We encourage everyone who is participating the hackathon to look through these resources, if you would like to contribute to this repository, read " ".
 
 ## Blockchain Basics
-
-* [Blockchain for Social Impact : Moving Beyond the Hype](https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/study-blockchain-impact-moving-beyond-hype.pdf).
+* [Blockchain for Social Impact : Moving Beyond the Hype](https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/study-blockchain-impact-moving-beyond-hype.pdf). -Recommended
 * [Glossary Terms](https://bitcoin.org/en/vocabulary#address).
 * [Blockchain Use Cases](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value).
 * [Blockchain Fundamentals](https://www.notion.so/Resources-to-get-started-3f85419cb7d9469a993af374f835d773).
@@ -34,14 +33,15 @@ Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 * [Bitcoin: The security of transaction block chains](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-security-of-transaction-block-chains).
 
 ## Courses
+* [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course). - Recommended
 * [Developing Ethereum Smart Contracts for Beginners](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners).
 * [Ethereum Development Course](https://www.udemy.com/course/ethereum-development-course-blockchain-at-berkeley/).
-* [Blockchain Essentials v2](https://cognitiveclass.ai/courses/blockchain-course).
-* [Learn to Code Blockchain DApps By Building Simple Games](https://cryptozombies.io/).
+* [Learn to Code Blockchain DApps By Building Simple Games](https://cryptozombies.io/). - Recommended
 * [Libra Basics](https://cryptozombies.io/en/lesson/12).
 * [Solidity Path : Beginner to Intermediate Smart Contracts](https://cryptozombies.io/en/course/).
 
 ## Research
 * [Compilation of Research Papers](https://www.notion.so/List-of-research-papers-other-resources-f12cf1055a7a4452be3a66e3e4f2abc0).
 
-
+## AWS Student Sign up Guide
+* [AWS for Students](https://wordpressua.uark.edu/blockchain-hackathon/files/2018/09/AWS-Student-Onboarding-Doc-1ln47cz.pdf).
