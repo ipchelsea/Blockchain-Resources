@@ -22,8 +22,14 @@ We encourage everyone who is participating the hackathon to look through these r
 Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 * [Blockchain Services & Chains](https://www.codementor.io/learn/blockchain/services-apps-chains).
 
-## Videos
+## Video Tutorials
 * [Bitcoin != Blockchain](https://youtu.be/93E_GzvpMA0).
+* [Python Tutorial for Beginners - Learn Python by Building a Blockchain & Cryptocurrency(https://www.youtube.com/watch?v=KARxDX5DTgY).
+* [How to Build Ethereum Dapp (Decentralized Application Development Tutorial)](https://www.youtube.com/watch?v=3681ZYbDSSk).
+* [Bitcoin != Blockchain](https://youtu.be/93E_GzvpMA0).
+* [Bitcoin != Blockchain](https://youtu.be/93E_GzvpMA0).
+* [Bitcoin != Blockchain](https://youtu.be/93E_GzvpMA0).
+* [Creating a blockchain with Javascript (Blockchain, part 1)](https://www.youtube.com/watch?v=zVqczFZr124).
 * [Bitcoin: The security of transaction block chains](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-security-of-transaction-block-chains).
 
 ## Courses
