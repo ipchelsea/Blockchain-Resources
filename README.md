@@ -23,5 +23,7 @@ We encourage everyone who is participating the hackathon to look through these r
 * [Bitcoin != Blockchain](https://youtu.be/93E_GzvpMA0).
 * [Bitcoin: The security of transaction block chains](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-security-of-transaction-block-chains).
 
+## Courses
+* [Blockchain Essentials v2](https://cognitiveclass.ai/courses/blockchain-course).
 
 
