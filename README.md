@@ -25,6 +25,7 @@ Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 * [Web3.js](https://github.com/ethereum/web3.js/). -  Ethereum javascript API
 * [Ethers.js](https://github.com/ethers-io/ethers.js/). -  Ethereum javascript API
 * [MetaMask](https://metamask.io/). -  Provides you with a secure identity vault and wallet. 
+* [infura.io](https://infura.io/). -  Provides you with API access to the Ethereum blockchain. 
 
 
 ## Video Tutorials
@@ -46,7 +47,7 @@ Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 * [Libra Basics](https://cryptozombies.io/en/lesson/12).
 * [Solidity Path : Beginner to Intermediate Smart Contracts](https://cryptozombies.io/en/course/).
 
-## Research
+## Past Winning Projects
 * [Compilation of Research Papers](https://www.notion.so/List-of-research-papers-other-resources-f12cf1055a7a4452be3a66e3e4f2abc0).
 
 ## AWS Student Sign up Guide
