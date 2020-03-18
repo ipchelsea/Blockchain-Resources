@@ -12,6 +12,7 @@ We encourage everyone who is participating the hackathon to look through these r
 
 
 ## Developer Guide
+* [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list). - Highly Recommended
 * [Bitcoin Developer Documentation](https://bitcoin.org/en/developer-documentation).
 * [BLOCKCHAIN DEVELOPMENT PROCESS – A COMPLETE GUIDE FOR INNOVATORS](https://www.leewayhertz.com/guide-to-blockchain-development-process/).
 * [Developing Ethereum Smart Contracts](https://solidity.readthedocs.io/en/develop/)
@@ -23,6 +24,7 @@ Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 * [Blockchain Services & Chains](https://www.codementor.io/learn/blockchain/services-apps-chains).
 
 ## Video Tutorials
+* [Ethereum Studio](https://studio.ethereum.org/). - Highly Recommended (Hands on Projects)
 * [Bitcoin != Blockchain](https://youtu.be/93E_GzvpMA0).
 * [Python Tutorial for Beginners - Learn Python by Building a Blockchain & Cryptocurrency](https://www.youtube.com/watch?v=KARxDX5DTgY).
 * [How to Build Ethereum Dapp (Decentralized Application Development Tutorial)](https://www.youtube.com/watch?v=3681ZYbDSSk).
