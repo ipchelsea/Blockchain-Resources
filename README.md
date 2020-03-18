@@ -13,6 +13,7 @@ We encourage everyone who is participating the hackathon to look through these r
 
 ## Developer Guide
 * [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list). - Highly Recommended
+* [Ethereum for Developers](https://ethereum.org/developers/#getting-started)
 * [Bitcoin Developer Documentation](https://bitcoin.org/en/developer-documentation).
 * [BLOCKCHAIN DEVELOPMENT PROCESS – A COMPLETE GUIDE FOR INNOVATORS](https://www.leewayhertz.com/guide-to-blockchain-development-process/).
 * [Developing Ethereum Smart Contracts](https://solidity.readthedocs.io/en/develop/)
@@ -47,8 +48,9 @@ Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 * [Libra Basics](https://cryptozombies.io/en/lesson/12).
 * [Solidity Path : Beginner to Intermediate Smart Contracts](https://cryptozombies.io/en/course/).
 
-## Past Winning Projects
-* [Compilation of Research Papers](https://www.notion.so/List-of-research-papers-other-resources-f12cf1055a7a4452be3a66e3e4f2abc0).
+## Text Editors and Intergrated Development Environments (IDEs)
+* [Visual Studio Code](https://code.visualstudio.com/).
+* [Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity). - Ethereum Solidity Language for Visual Studio Code
 
 ## AWS Student Sign up Guide
 * [AWS for Students](https://wordpressua.uark.edu/blockchain-hackathon/files/2018/09/AWS-Student-Onboarding-Doc-1ln47cz.pdf).
