@@ -41,4 +41,7 @@ Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 * [Libra Basics](https://cryptozombies.io/en/lesson/12).
 * [Solidity Path : Beginner to Intermediate Smart Contracts](https://cryptozombies.io/en/course/).
 
+## Research
+* [Compilation of Research Papers](https://www.notion.so/List-of-research-papers-other-resources-f12cf1055a7a4452be3a66e3e4f2abc0).
+
 
