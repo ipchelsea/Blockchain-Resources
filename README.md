@@ -7,6 +7,7 @@ We encourage everyone who is participating the hackathon to look through these r
 
 * [Blockchain for Social Impact : Moving Beyond the Hype](https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/study-blockchain-impact-moving-beyond-hype.pdf).
 * [Glossary Terms](https://bitcoin.org/en/vocabulary#address).
+* [Blockchain Use Cases](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value).
 * [Blockchain Fundamentals](https://www.notion.so/Resources-to-get-started-3f85419cb7d9469a993af374f835d773).
 * [Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html).
 
