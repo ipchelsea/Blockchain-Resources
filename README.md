@@ -1,1 +1,4 @@
-# UW BLOCKCHAIN HACKS RESOURCES [![Awesome]
+# UW BLOCKCHAIN HACKS RESOURCES 
+
+
+### Introduction
