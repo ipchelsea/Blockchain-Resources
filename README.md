@@ -15,6 +15,7 @@ We encourage everyone who is participating the hackathon to look through these r
 ## Developer Guide
 * [Bitcoin Developer Documentation](https://bitcoin.org/en/developer-documentation).
 * [Developing Ethereum Smart Contracts](https://solidity.readthedocs.io/en/develop/)
+* [IBM Blockchain 101: Quick-start guide for developers](https://developer.ibm.com/technologies/blockchain/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/)
 
 
 ## Videos
