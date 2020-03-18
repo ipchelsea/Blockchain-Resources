@@ -23,6 +23,7 @@ We encourage everyone who is participating the hackathon to look through these r
 * [Bitcoin: The security of transaction block chains](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-security-of-transaction-block-chains).
 
 ## Courses
+* [Developing Ethereum Smart Contracts for Beginners](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners).
 * [Blockchain Essentials v2](https://cognitiveclass.ai/courses/blockchain-course).
 * [Learn to Code Blockchain DApps By Building Simple Games](https://cryptozombies.io/).
 * [Libra Basics](https://cryptozombies.io/en/lesson/12).
