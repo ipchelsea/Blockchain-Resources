@@ -18,10 +18,14 @@ We encourage everyone who is participating the hackathon to look through these r
 * [Developing Ethereum Smart Contracts](https://solidity.readthedocs.io/en/develop/)
 * [IBM Blockchain 101: Quick-start guide for developers](https://developer.ibm.com/technologies/blockchain/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/)
 
-## Blockchain Frameworks
+## Blockchain APIs/Frameworks
 * [Blockchain Frameworks,
 Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 * [Blockchain Services & Chains](https://www.codementor.io/learn/blockchain/services-apps-chains).
+* [Web3.js](https://github.com/ethereum/web3.js/). -  Ethereum javascript API
+* [Ethers.js](https://github.com/ethers-io/ethers.js/). -  Ethereum javascript API
+* [MetaMask](https://metamask.io/). -  Provides you with a secure identity vault and wallet. 
+
 
 ## Video Tutorials
 * [Ethereum Studio](https://studio.ethereum.org/). - Highly Recommended (Hands on Projects)
