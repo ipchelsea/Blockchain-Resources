@@ -1,4 +1,4 @@
-# UW BLOCKCHAIN HACKS RESOURCES 
+# UW BLOCKCHAIN SOCIETY GUIDE 
 
 ## About 
 We encourage everyone who is participating the hackathon to look through these resources, if you would like to contribute to this repository, read " ".
