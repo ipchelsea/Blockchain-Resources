@@ -24,6 +24,7 @@ We encourage everyone who is participating the hackathon to look through these r
 
 ## Courses
 * [Developing Ethereum Smart Contracts for Beginners](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners).
+* [Ethereum Development Course](https://www.udemy.com/course/ethereum-development-course-blockchain-at-berkeley/).
 * [Blockchain Essentials v2](https://cognitiveclass.ai/courses/blockchain-course).
 * [Learn to Code Blockchain DApps By Building Simple Games](https://cryptozombies.io/).
 * [Libra Basics](https://cryptozombies.io/en/lesson/12).
