@@ -11,7 +11,6 @@ We encourage everyone who is participating the hackathon to look through these r
 * [Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html).
 
 
-
 ## Developer Guide
 * [Bitcoin Developer Documentation](https://bitcoin.org/en/developer-documentation).
 * [BLOCKCHAIN DEVELOPMENT PROCESS – A COMPLETE GUIDE FOR INNOVATORS](https://www.leewayhertz.com/guide-to-blockchain-development-process/).
@@ -27,5 +26,6 @@ We encourage everyone who is participating the hackathon to look through these r
 * [Blockchain Essentials v2](https://cognitiveclass.ai/courses/blockchain-course).
 * [Learn to Code Blockchain DApps By Building Simple Games](https://cryptozombies.io/).
 * [Libra Basics](https://cryptozombies.io/en/lesson/12).
+* [Solidity Path : Beginner to Intermediate Smart Contracts](https://cryptozombies.io/en/course/).
 
 
