@@ -3,5 +3,9 @@
 
 ### Introduction
 
-Study | Blockchain for Social Impact: Moving Beyond the Hypewww.gsb.stanford.edu › sites › gsb › files › publication-pdf › study-b...
+## About 
+
+### Android
+
+* [Blockchain Glossary Terms](https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/study-blockchain-impact-moving-beyond-hype.pdf).
 
