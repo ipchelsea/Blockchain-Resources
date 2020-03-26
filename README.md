@@ -1,7 +1,7 @@
 # UW BLOCKCHAIN SOCIETY GUIDE 
 
 ## About 
-We encourage everyone who is participating the hackathon to look through these resources, if you would like to contribute to this repository, read " ".
+We encourage everyone who is participating the hackathon to look through these resources. Feel free to contribute!
 
 ## Blockchain Basics
 * [Blockchain for Social Impact : Moving Beyond the Hype](https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/study-blockchain-impact-moving-beyond-hype.pdf). -Recommended
