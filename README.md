@@ -20,6 +20,7 @@ We encourage everyone who is participating the hackathon to look through these r
 * [IBM Blockchain 101: Quick-start guide for developers](https://developer.ibm.com/technologies/blockchain/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/)
 
 ## NEAR Protocol
+* [What are decentralized applications and how do they work](https://examples.nearprotocol.com/)
 * [Example Projects](https://examples.nearprotocol.com/)
 
 ## Blockchain APIs/Frameworks
