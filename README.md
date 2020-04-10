@@ -20,7 +20,7 @@ We encourage everyone who is participating the hackathon to look through these r
 * [BLOCKCHAIN DEVELOPMENT PROCESS – A COMPLETE GUIDE FOR INNOVATORS](https://www.leewayhertz.com/guide-to-blockchain-development-process/).
 * [Installing the solidity compiler](https://solidity.readthedocs.io/en/v0.5.3/installing-solidity.html)
 * [Developing Ethereum Smart Contracts](https://solidity.readthedocs.io/en/develop/)
-
+* [Example Solidity Projects](https://solidity.readthedocs.io/en/latest/solidity-by-example.html#micropayment-channel)
 * [IBM Blockchain 101: Quick-start guide for developers](https://developer.ibm.com/technologies/blockchain/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/)
 
 ## NEAR Protocol
