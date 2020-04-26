@@ -14,6 +14,7 @@ We encourage everyone who is participating the hackathon to look through these r
 
 
 ## Developer Guide
+* [Build with Ethereum](https://ethereum.org/build/)
 * [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list). - Highly Recommended
 * [Ethereum for Developers](https://ethereum.org/developers/#getting-started)
 * [Bitcoin Developer Documentation](https://bitcoin.org/en/developer-documentation).
