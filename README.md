@@ -56,6 +56,8 @@ Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 * [Learn to Code Blockchain DApps By Building Simple Games](https://cryptozombies.io/). - Recommended
 * [Libra Basics](https://cryptozombies.io/en/lesson/12).
 * [Solidity Path : Beginner to Intermediate Smart Contracts](https://cryptozombies.io/en/course/).
+* [Become a Blockchain Developer](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric). - Free for Students 
+
 
 ## Text Editors and Intergrated Development Environments (IDEs)
 * [Visual Studio Code](https://code.visualstudio.com/).
