@@ -59,7 +59,7 @@ Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 * [Become a Blockchain Developer](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric). - Free for Students 
 
 ## Business Proposals & Presentation Guidelines
-* [For presentation submission](https://www.canva.com/). - Recommended
+* [Canva Presentations](https://www.canva.com/). - Recommended
 * [Google Slides](https://www.google.com/slides/about/). - Recommended
 * [How to Deliver a Good Business Pitch](https://www.slideshare.net/KaDawg/10-tips-for-a-winning-hackathon-pitch/7-6_PracticeSpeaker_and_demo_driver) - Recommended
 
