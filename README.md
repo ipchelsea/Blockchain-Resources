@@ -1,7 +1,7 @@
 # UW BLOCKCHAIN SOCIETY GUIDE 
 
 ## About 
-We encourage everyone who is participating the hackathon to look through these resources. Feel free to contribute! What is covered? (Blockchain Basics, Developer Guide, Blockchain APIs and Frameworks, Video Tutorials, Presentation Pitches and Courses).
+We encourage everyone who is participating the hackathon to look through these resources. Feel free to contribute! What is covered? (Blockchain Basics, Developer Guide, Blockchain APIs and Frameworks, Video Tutorials, Presentation Pitches and Courses). If you have any technical difficulties during the hackathon, join our Discord Channel as we will have mentors throughout the day : https://discord.gg/DkHG8hV
 
 ## Blockchain Basics
 * [Blockchain for Social Impact : Moving Beyond the Hype](https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/study-blockchain-impact-moving-beyond-hype.pdf). -Recommended
@@ -61,6 +61,7 @@ Libraries & More](https://www.codementor.io/learn/blockchain/development-tools).
 ## Business Proposals & Presentation Guidelines
 * [Canva Presentations](https://www.canva.com/). - Recommended
 * [Google Slides](https://www.google.com/slides/about/). - Recommended
+* [Business Pitch Deck](https://issuu.com/eyesinternational/docs/hackathon_pitch_deck_main_format_183f1bf7e29d74) - Recommended
 * [How to Deliver a Good Business Pitch](https://www.slideshare.net/KaDawg/10-tips-for-a-winning-hackathon-pitch/7-6_PracticeSpeaker_and_demo_driver) - Recommended
 
 ## Text Editors and Intergrated Development Environments (IDEs)
