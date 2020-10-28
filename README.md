@@ -5,6 +5,7 @@ We encourage everyone who is participating the hackathon to look through these r
 
 ## Blockchain Basics
 * [Blockchain for Social Impact : Moving Beyond the Hype](https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/study-blockchain-impact-moving-beyond-hype.pdf). -Recommended
+* [University of Toronto Blockchain Lectures](https://www.edu.confluxnetwork.org/%E8%AF%BE%E7%A8%8B?lang=en)
 * [Glossary Terms](https://bitcoin.org/en/vocabulary#address).
 * [Blockchain Use Cases](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value).
 * [Blockchain Fundamentals](https://www.notion.so/Resources-to-get-started-3f85419cb7d9469a993af374f835d773).
@@ -23,6 +24,7 @@ We encourage everyone who is participating the hackathon to look through these r
 * [Developing Ethereum Smart Contracts](https://solidity.readthedocs.io/en/develop/)
 * [Example Solidity Projects](https://solidity.readthedocs.io/en/latest/solidity-by-example.html#micropayment-channel)
 * [IBM Blockchain 101: Quick-start guide for developers](https://developer.ibm.com/technologies/blockchain/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/)
+* [Blockchain, frameworks and libraries](https://www.codementor.io/learn/blockchain/development-tools)
 
 ## NEAR Protocol
 * [What are decentralized applications and how do they work](https://examples.nearprotocol.com/)
